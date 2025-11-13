@@ -18,7 +18,7 @@ nav {
 
 .logo {
     color: white;
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: 5px;
     font-size: 20px;
 }
@@ -229,4 +229,5 @@ nav {
 
 .toggle .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
+
 }
